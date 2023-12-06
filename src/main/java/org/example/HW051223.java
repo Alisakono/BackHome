@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class HW051223 {
     public static void main(String[] args) {
         int [] array = new int[] {1, 2, 6, 8, 7, 9, 4, 3};
         int min = Integer.MAX_VALUE;
